@@ -8,6 +8,14 @@ describe("Sample tests", () => {
     });
 
    
+    test("Third test case", () => {
+      expect(10 + 2).toBe(12);
+    });
+
+    test("Fourth test case", () => {
+      expect(15 + 2).toBe(17);
+    });
+
 
     });
     
